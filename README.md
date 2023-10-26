@@ -1,9 +1,4 @@
 
-
-<h1 align="center">
- Pokedex  |
-</h1>
-
 <h2 align="center">
   Bem Vindo a Pokedex
 </h2>
@@ -12,7 +7,6 @@
 
 Este projeto consiste em criar uma pokedex consumindo uma [API](pokeapi.co), a ideia e colocar conceitos que estou aprendendo ao longo de minha jornada. Projeto ainda em construção
 
-## 🎨 Layout
 
 <h4 align="center">
   <img alt="Layout" title="Layout" src=".github/layout.gif"/>
@@ -25,8 +19,6 @@ Este projeto consiste em criar uma pokedex consumindo uma [API](pokeapi.co), a i
 - [Axios][axios]
 
 ## 🚀 Como rodar este projeto
-
-Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [NodeJs][nodejs] Instalado em seu computador.
 
 ### 🌀 Clonando o repositório
 
